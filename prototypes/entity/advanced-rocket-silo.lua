@@ -13,6 +13,7 @@ entity.base_day_sprite.tint = tint;
 entity.base_front_sprite.tint = tint;
 --entity.door_back_sprite.tint = tint;
 --entity.door_front_sprite.tint = tint;
+entity.fixed_quality = nil
 
 entity.door_opening_speed = (speed_ratio / (4.25 * 60));
 entity.doors_sound.speed = speed_ratio;
@@ -41,7 +42,7 @@ entity2.flying_speed = speed_ratio / (2000 * 60);
 entity2.flying_acceleration = 0.04;
 
 entity2.rocket_sprite.layers[1].tint = tint;
-entity2.flying_sound.speed = 4.0;
+entity2.flying_sound.speed = speed_ratio
 
 data:extend{ entity2, }
 

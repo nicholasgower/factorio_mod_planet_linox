@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.8.10
+Date: 18. 10. 2026
+  Changes:
+    - You can now specify the Recipe Quality of the Advanced Rocket Silo.
+
+  Bugfixes:
+    - Fixed an issue where Linox science packs caused errors due to compatibility with other mods’ labs.
+    - Fixed an issue where the neodymium permanent magnet generator caused an error in 2.1.22.
+
+---------------------------------------------------------------------------------------------------
 Version: 1.8.9
 Date: 6. 9. 2026
   Bugfixes:

@@ -50,7 +50,6 @@ data:extend {
       pipe_covers = pipecoverspictures(),
       volume = 2000,
       filter = "steam",
-      minimum_temperature = 100.0,
       pipe_connections = {
         {
           position = { 0, -4 },
@@ -66,6 +65,9 @@ data:extend {
       production_type = "input-output"
     },
     max_health = 2000,
+
+    minimum_input_temperature = 100,
+    maximum_input_temperature = 500,
     maximum_temperature = 500,
 
     perceived_performance = { minimum = 0.25, performance_to_activity_rate = 0.5 },
