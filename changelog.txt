@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.8.11
+Date: 25. 10. 2026
+  Changes:
+    - The maximum fluid input temperature requirement for the neodymium permanent-magnet generator has been removed.
+
+---------------------------------------------------------------------------------------------------
 Version: 1.8.10
 Date: 18. 10. 2026
   Changes:

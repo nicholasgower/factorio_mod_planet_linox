@@ -67,7 +67,6 @@ data:extend {
     max_health = 2000,
 
     minimum_input_temperature = 100,
-    maximum_input_temperature = 500,
     maximum_temperature = 500,
 
     perceived_performance = { minimum = 0.25, performance_to_activity_rate = 0.5 },
